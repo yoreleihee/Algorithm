@@ -1,11 +1,6 @@
-//
-// Created by KLP on 2024-11-04.
-//
-
 #ifndef MYSTRING_H
 #define MYSTRING_H
 #include <assert.h>
-#include <cstring>
 #include <iostream>
 
 using namespace std;

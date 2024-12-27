@@ -1,7 +1,3 @@
-//
-// Created by KLP on 2024-11-04.
-//
-
 #include "MyString.h"
 #include <iostream>
 
