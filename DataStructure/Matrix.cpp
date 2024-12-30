@@ -21,8 +21,6 @@ Matrix::Matrix(int num_rows, int num_cols)
 
 Matrix::Matrix(const Matrix &b)
 {
-    delete[] values;
-    values = nullptr;
     num_rows_ = b.num_rows_;
     num_cols_ = b.num_cols_;
     values = new float[num_rows_ * num_cols_];
